@@ -6,4 +6,4 @@ echo "How are you?"
 echo "I am learning branching in Git"
 echo "GitHub Practical" 
 echo "hello priyanka
-echo "branching"
+echo "branching1234" 
