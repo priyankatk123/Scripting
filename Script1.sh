@@ -4,4 +4,5 @@ echo "We are from batch-27 and learning DevOps"
 echo "We are learning Git and GitHub"
 echo "How are you?"
 echo "I am learning branching in Git"
-echo "GITHUB First prct"git 
+echo "GitHub Practical" 
+echo "hello priyanka"
